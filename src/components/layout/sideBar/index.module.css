@@ -1,0 +1,28 @@
+.sidebar{
+    
+    width: 300px;
+    border-right: 0.5px solid rgba(0, 0, 0, 0.045);
+    height: 600px;
+}
+.sidebar ul li{
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+    line-height: 30px;
+    text-decoration: none;
+    
+    
+    
+}
+.h3{
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(0, 1, 1);
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    margin-top: 0.5px solid black;
+    font-weight: bold;
+}

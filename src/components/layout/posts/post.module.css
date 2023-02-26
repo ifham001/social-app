@@ -1,0 +1,13 @@
+.posts{
+    display: flex;
+  
+    
+}
+.posts button{
+    width: 100px;
+    height: 100px;
+}
+.postss{
+    display: block;
+    margin-bottom: 100px;
+}
